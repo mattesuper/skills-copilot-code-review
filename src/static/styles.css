@@ -79,6 +79,14 @@ main {
   justify-content: center;
 }
 
+.announcement-banner {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
+
 section {
   background-color: var(--surface);
   padding: 15px;
